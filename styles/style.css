@@ -1,0 +1,41 @@
+.fonthead {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+}
+
+.fontsub {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.homebg {
+    background-image:url('https://img.goodfon.com/wallpaper/nbig/9/6f/sport-paren-muzhchina-beg.jpg');
+}
+
+.center {
+        text-align: center;
+}
+
+.justify {
+    .justify {text-align: justify;}
+}
+
+.bgcolor {
+    background-color: rgb(255, 176, 72);
+}
+
+.videocontainer {
+    text-align: center;
+}
+
+.videocontainer iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fontcolor {
+    color: rgb(255, 255, 255);
+}
